@@ -1,2 +1,2 @@
 # PythonRepository
-Programas en python
+Calculadora básica en Python
